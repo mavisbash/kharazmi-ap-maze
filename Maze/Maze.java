@@ -13,7 +13,7 @@ public class Maze {
         return rowNumber;
     }
 
-    /**
+    /** 
      * @param rowNumber the rowNumber to set
      */
     public void setRowNumber(int rowNumber) {
